@@ -3,6 +3,7 @@ package week1_prework;
 public class Strings {
 
 	// https://www.interviewbit.com/problems/length-of-last-word/
+	// Category Bucket 1 - Words
 	  public int lengthOfLastWord(final String A) {
 	        String b = A.trim();
 	        char[] letters = b.toCharArray();
@@ -15,6 +16,7 @@ public class Strings {
 	        return b.length();
 	  }
 	  
+	  // Category Bucket : String simulation
 	  // https://www.interviewbit.com/problems/palindrome-string/
 	  
 	  public static int isPalindrome(String A) {
