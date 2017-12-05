@@ -2,13 +2,13 @@ package week2_prework;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map.Entry;
 
 public class Hashing {
 
+	// Problem 1 : Anagrams
+	// Category: KeyFormation
 	public int[][] anagrams(final String[] A) {
 		HashMap<String, ArrayList<Integer>> map = new HashMap<String, ArrayList<Integer>>();
 		
@@ -38,50 +38,9 @@ public class Hashing {
 		return result;
     }
     
-    private boolean isAnagram (String s1, String s2) {
-    	if (s1.length() != s2.length()) {
-    		return false;
-    	}
-        HashMap<Character, Integer> map = new HashMap<>();
-        for (int i = 0; i < s1.length(); i++) {
-        	if (map.containsKey(s1.charAt(i))) {
-        		int count = map.get(s1.charAt(i)) + 1;
-        	    map.put(s1.charAt(i), count);
-        	} else {
-        		map.put(s1.charAt(i), 1);
-        	}
-           
-        }
-        for (int j = 0; j < s2.length(); j++) {
-        	if (map.containsKey(s2.charAt(j))) {
-        		int count = map.get(s2.charAt(j)) - 1;
-        	    map.put(s2.charAt(j), count);
-        	} else {
-        		return false;
-        	}
-        }
-       
-        for (Entry<Character, Integer> e : map.entrySet()) {
-        	if (e.getValue() != 0) {
-        		return false;
-        	}
-        }
-        return true;
-    }
-    
-    private class Pair {
-        int index1; 
-        int index2;
-        
-        Pair(int i, int j) {
-        	index1 = i;
-        	index2 = j;
-        }
-        Pair (int i) {
-        	index1 = i;
-        }
-    }
-   
+    // Problem 2 : 2 Sum
+	// Category : Hash search
+	
     public int[] twoSum(final int[] A, int B) { 
        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
        int[] result = new int[2];
