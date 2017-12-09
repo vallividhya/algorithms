@@ -1,5 +1,33 @@
 # Codepath: Algorithms and Data Structures.
 
+# Week 2 - Prework
+
+Hashing:
+
+* [X] Problem 1 - Anagrams
+
+* [X] Problem 2 - 2 Sum 
+
+* [ ] Problem 3 
+
+* [ ] Problem 4 
+
+LinkedList:
+
+* [X] Problem 1 - List Cycle 
+
+* [X] Problem 2 - Remove duplicates from sorted list
+
+* [ ] Problem 3 
+
+* [ ] Problem 4 
+
+# GIF Walkthrough
+
+https://imgur.com/RFe6EwZ.gif
+
+
+
 # Week 1 - Assignment Submission
 
 Strings:
@@ -25,5 +53,5 @@ Arrays:
 
 # GIF Walkthrough
 
-https://imgur.com/hnAvGiX 
+https://imgur.com/hnAvGiX.gif 
 
