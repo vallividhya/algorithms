@@ -27,7 +27,7 @@ LinkedList:
 https://imgur.com/IYpMZ5m.gif
 
 
-# Week 1 - Assignment Submission
+# Week 1 - Assignment 
 
 Strings:
 
