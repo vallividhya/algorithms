@@ -8,9 +8,9 @@ Hashing:
 
 * [X] Problem 2 - 2 Sum 
 
-* [ ] Problem 3 
+* [X] Problem 3 - Longest Substring Without Repeat
 
-* [ ] Problem 4 
+* [X] Problem 4 - Points on the Straight Line
 
 LinkedList:
 
@@ -18,14 +18,13 @@ LinkedList:
 
 * [X] Problem 2 - Remove duplicates from sorted list
 
-* [ ] Problem 3 
+* [X] Problem 3 - Swap List Nodes in pairs
 
-* [ ] Problem 4 
+* [X] Problem 4 - Partition List
 
 # GIF Walkthrough
 
-https://imgur.com/RFe6EwZ.gif
-
+https://imgur.com/IYpMZ5m.gif
 
 
 # Week 1 - Assignment Submission
