@@ -1,6 +1,6 @@
 # Codepath: Algorithms and Data Structures.
 
-# Week 2 - Prework
+# Week 2 - Assignment
 
 Hashing:
 
