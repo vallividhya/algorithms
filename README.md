@@ -1,5 +1,19 @@
 # Codepath: Algorithms and Data Structures.
 
+# Week 3 - Assignment
+
+Trees:
+
+* [X] Problem 1 - Identical Tress
+
+* [X] Problem 2 - Max Depth of a tree
+
+Binary Search:
+
+* [X] Problem 1 - Rotated sorted array search
+
+* [X] Problem 2 - Search for a range
+
 # Week 2 - Assignment
 
 Hashing:
