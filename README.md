@@ -8,11 +8,23 @@ Trees:
 
 * [X] Problem 2 - Max Depth of a tree
 
+* [X] Problem 3 -  Inorder traversal (without recursion)
+
+* [X] Problem 4 - Invert tree
+
 Binary Search:
 
 * [X] Problem 1 - Rotated sorted array search
 
 * [X] Problem 2 - Search for a range
+
+* [X] Problem 3 - Square root of an integer
+
+* [X] Problem 4 - Power function
+
+GIF Walkthrough:
+
+https://imgur.com/zaYargk.gif
 
 # Week 2 - Assignment
 
