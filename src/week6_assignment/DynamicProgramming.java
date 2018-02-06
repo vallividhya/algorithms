@@ -218,6 +218,11 @@ public class DynamicProgramming {
         }
     }
     
+    public int maxcoin(ArrayList<Integer> coins) {
+        Map<Result, Integer> map = new HashMap<Result, Integer>();
+        return coinsHelper(coins, 0 , coins.size() - 1, map); 
+    }
+    
     class Result {
         public int startIndex;
         public int endIndex;
