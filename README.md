@@ -1,5 +1,9 @@
 # Codepath: Algorithms and Data Structures.
 
+# Week 8 - Assignment
+
+Link to document: https://goo.gl/eqg52k
+
 # Week 3 - Assignment
 
 Trees:
